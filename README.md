@@ -14,8 +14,8 @@
 ### ✨ Featured Work
 
 - 📊 **AI & Medical Imaging** – Developed noise-augmented models for COVID-19 chest X-ray classification in out-of-distribution (OOD) settings; meta-analysis of Invariant Risk Minimization on colored MNIST
-- 🩻 **MAI-CARE Contributor** – Working on UI/UX of the [Moffitt AI Interface for Cancer research (MAI-CARE)](https://pubmed.ncbi.nlm.nih.gov/36716497/)
-- 🌱 **Neonatal Pain Detection** – Working on multi-modal (video & sound) learning for pain assessment in newborns
+- 🩻 **MAI-CARE Contributor** – Working on UI/UX, data preprocessing, and explainability module integration of the [Moffitt AI Interface for Cancer research (MAI-CARE)](https://pubmed.ncbi.nlm.nih.gov/36716497/)
+- 📷 **Neonatal Pain Detection** – Working on multi-modal (video & sound) learning for pain assessment in newborns
 
 **Affiliations:** 
 - Research Assistant, Dr. [Lawrence Hall](https://scholar.google.com/citations?user=AKHplAUAAAAJ&hl=en), USF
