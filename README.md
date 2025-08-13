@@ -1,5 +1,5 @@
 ## Xin chào, my name is Duong Mai (Eric)  
-🎓 Senior in Computer Science at the University of South Florida (USF)
+🎓 Computer Science major at the University of South Florida (USF), class of 2026 (Expected)
 
 🔬 I research AI & Healthcare, focusing on **medical imaging**, **multi-modal learning (video & sound)**, and **Research Interface**
 
