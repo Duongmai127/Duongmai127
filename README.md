@@ -1,11 +1,12 @@
 ## Xin chào, my name is Duong Mai (Eric)  
-🎓 Computer Science major at the University of South Florida (USF) - Class of 2026 (Expected)
+🎓 Computer Science major at the University of South Florida (USF) - Expected Graduation: May 2026
 
 🔬 I research AI & Healthcare, focusing on **medical imaging**, **multi-modal learning (video & sound)**, and **Research Interface**
 
 ![Location](https://img.shields.io/badge/Location-Tampa%2C%20FL-green)
 [![Email](https://img.shields.io/badge/Email-mai247@usf.edu-cfa5b0?style=flat&logo=gmail&logoColor=ffffff)](mailto:mai247@usf.edu)
-![Static Badge](https://img.shields.io/badge/Currently-Looking%20for%20PhD-green?style=social)
+![Personal Website](https://img.shields.io/badge/Website-https%3A%2F%2Fduongmai127.github.io%2F-blue?style=plastic)
+![Special](https://img.shields.io/badge/Currently-Looking%20for%20PhD-green?style=social)
 
 
 ---
