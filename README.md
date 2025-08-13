@@ -23,6 +23,10 @@
 - Research Trainee, [Machine Learning Dept.](https://lab.moffitt.org/elnaqa/), Dr. [Issam El Naqa](https://scholar.google.com/citations?user=9Vdfc2sAAAAJ&hl=en), Moffitt Cancer Center
 - Student, [CRA UR2PhD program](https://cra.org/ur2phd/for-undergraduate-students/)
 
+**Under the radar (quite so)...**
+- RISE-MICCAI LISA 2025 challenge
+- Preprint Under Review at SPIE Medical Imaging 2026: Computer-Aided Diagnosis (will reveal later...)
+
 ---
 
 ### ⚡ Fun facts
