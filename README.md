@@ -19,7 +19,7 @@
 **Affiliations:** 
 - Research Assistant, Dr. [Lawrence Hall](https://scholar.google.com/citations?user=AKHplAUAAAAJ&hl=en), USF
 - REU student, [Robot Perception and Action Lab](https://rpal.cse.usf.edu/project_neonatal_pain/), Dr. [Yu Sun](https://cse.usf.edu/~yusun/), USF
-- Research Trainee, [Machine Learning Dept.](https://lab.moffitt.org/elnaqa/), Dr. [El. Naqa](https://scholar.google.com/citations?user=9Vdfc2sAAAAJ&hl=en), Moffitt Cancer Center
+- Research Trainee, [Machine Learning Dept.](https://lab.moffitt.org/elnaqa/), Dr. [Issam El Naqa](https://scholar.google.com/citations?user=9Vdfc2sAAAAJ&hl=en), Moffitt Cancer Center
 - Student, [CRA UR2PhD program](https://cra.org/ur2phd/for-undergraduate-students/)
 
 ---
