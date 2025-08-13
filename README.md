@@ -5,7 +5,7 @@
 
 ![Location](https://img.shields.io/badge/Location-Tampa%2C%20FL-green)
 [![Email](https://img.shields.io/badge/Email-mai247@usf.edu-cfa5b0?style=flat&logo=gmail&logoColor=ffffff)](mailto:mai247@usf.edu)
-![Personal Website](https://img.shields.io/badge/Website-https%3A%2F%2Fduongmai127.github.io%2F-blue?style=plastic)
+[![Personal Web](https://img.shields.io/badge/Website-https%3A%2F%2Fduongmai127.github.io%2F-blue)](https://duongmai127.github.io/)
 ![Special](https://img.shields.io/badge/Currently-Looking%20for%20PhD-green?style=social)
 
 
