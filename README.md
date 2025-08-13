@@ -1,5 +1,5 @@
 ## Xin chào, my name is Duong Mai (Eric)  
-🎓 Computer Science major at the University of South Florida (USF), class of 2026 (Expected)
+🎓 Computer Science major at the University of South Florida (USF) - Class of 2026 (Expected)
 
 🔬 I research AI & Healthcare, focusing on **medical imaging**, **multi-modal learning (video & sound)**, and **Research Interface**
 
@@ -14,7 +14,7 @@
 
 - 📊 **AI & Medical Imaging** – Developed noise-augmented models for COVID-19 chest X-ray classification in out-of-distribution (OOD) settings; meta-analysis of Invariant Risk Minimization on colored MNIST
 - 🩻 **MAI-CARE Contributor** – Working on UI/UX of the [Moffitt AI Interface for Cancer research (MAI-CARE)](https://pubmed.ncbi.nlm.nih.gov/36716497/)
-- 🌱 **Neonatal Pain Detection** – Working on multi-modal learning for pain assessment in newborns
+- 🌱 **Neonatal Pain Detection** – Working on multi-modal (video & sound) learning for pain assessment in newborns
 
 **Affiliations:** 
 - Research Assistant, Dr. [Lawrence Hall](https://scholar.google.com/citations?user=AKHplAUAAAAJ&hl=en), USF
@@ -25,9 +25,9 @@
 ---
 
 ### ⚡ Fun facts
-- Our team won 3rd place on the Emory Summer Datathon 2024:) This year, I'm excited to join the Datathon 2025 edition
-- I flew all the way from Tampa, Fl to Nashville, TN to join the Vanderbilt AI Summer School 2025
-- I am a fan of Omniscient Reader Viewpoint, the novel, ~~Live Action~~
+- Our team won 3rd place on the [Emory Health AI Bias Datathon 2024](https://datathon.org/):) This year, I'm excited to join the Datathon again!
+- I flew all the way from Tampa, FL to Nashville, TN to join the [Vanderbilt AI Summer School 2025](https://www.vanderbilt.edu/valiant/ai-summer-school-2025/)
+- I am a fan of Omniscient Reader Viewpoint (ORV), the novel, ~~Live Action~~
 
 ---
 
