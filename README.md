@@ -31,7 +31,7 @@
 
 ### ⚡ Fun facts
 - Our team won 3rd place on the [Emory Health AI Bias Datathon 2024](https://datathon.org/):) This year, I'm excited to join the Datathon again!
-- I flew all the way from Tampa, FL to Nashville, TN to join the [Vanderbilt AI Summer School 2025](https://www.vanderbilt.edu/valiant/ai-summer-school-2025/)
+- I flew all the way (~616 miles) from Tampa, FL to Nashville, TN to join the [Vanderbilt AI Summer School 2025](https://www.vanderbilt.edu/valiant/ai-summer-school-2025/)
 - I am a fan of Omniscient Reader Viewpoint (ORV), the novel, ~~Live Action~~
 
 ---
