@@ -1,5 +1,5 @@
 ## Xin chào, my name is Duong Mai (Eric)  
-🎓 Senior in Computer Science at the University of South Florida
+🎓 Senior in Computer Science at the University of South Florida (USF)
 
 🔬 I research AI & Healthcare, focusing on **medical imaging**, **multi-modal learning (video & sound)**, and **Research Interface**
 
@@ -12,22 +12,22 @@
 
 ### ✨ Featured Work
 
-- 📊 **AI & Medical Imaging** – Developed noise-augmented models for COVID-19 chest X-ray classification in OOD settings; meta-analysis of Invariant Risk Minimization on colored MNIST.
-- 🩻 **MAI-CARE Contributor** – Improved data analysis, UI/UX, and documentation for Moffitt AI Cancer Research Interface.
-- 🌱 **Neonatal Pain Detection** – Working on multi-modal learning for pain assessment in newborns.
+- 📊 **AI & Medical Imaging** – Developed noise-augmented models for COVID-19 chest X-ray classification in out-of-distribution (OOD) settings; meta-analysis of Invariant Risk Minimization on colored MNIST
+- 🩻 **MAI-CARE Contributor** – Working on UI/UX of the [Moffitt AI Interface for Cancer research (MAI-CARE)](https://pubmed.ncbi.nlm.nih.gov/36716497/)
+- 🌱 **Neonatal Pain Detection** – Working on multi-modal learning for pain assessment in newborns
 
 **Affiliations:** 
-- Research with Dr. Lawrence Hall, USF
-- REU student, [Robot Perception and Action Lab](https://rpal.cse.usf.edu/project_neonatal_pain/), USF
-- Trainee, Dr. Naqa’s Lab, Machine Learning Dept., Moffitt Cancer Center
-- Participant, CRA UR2PhD program
+- Research Assistant, Dr. [Lawrence Hall](https://scholar.google.com/citations?user=AKHplAUAAAAJ&hl=en), USF
+- REU student, [Robot Perception and Action Lab](https://rpal.cse.usf.edu/project_neonatal_pain/), Dr. [Yu Sun](https://cse.usf.edu/~yusun/), USF
+- Research Trainee, [Machine Learning Dept.](https://lab.moffitt.org/elnaqa/), Dr. [El. Naqa](https://scholar.google.com/citations?user=9Vdfc2sAAAAJ&hl=en), Moffitt Cancer Center
+- Student, [CRA UR2PhD program](https://cra.org/ur2phd/for-undergraduate-students/)
 
 ---
 
 ### ⚡ Fun facts
 - Our team won 3rd place on the Emory Summer Datathon 2024:) This year, I'm excited to join the Datathon 2025 edition
 - I flew all the way from Tampa, Fl to Nashville, TN to join the Vanderbilt AI Summer School 2025
-- I am a fan of Omniscient Reader Viewpoint, the novel, not ~~Live Action~~
+- I am a fan of Omniscient Reader Viewpoint, the novel, ~~Live Action~~
 
 ---
 
