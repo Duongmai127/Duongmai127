@@ -23,9 +23,13 @@
 - Research Trainee, [Machine Learning Dept.](https://lab.moffitt.org/elnaqa/), Dr. [Issam El Naqa](https://scholar.google.com/citations?user=9Vdfc2sAAAAJ&hl=en), Moffitt Cancer Center
 - Student, [CRA UR2PhD program](https://cra.org/ur2phd/for-undergraduate-students/)
 
+**Exciting news**
+- Our maunscript, [Noise Injection: Improving Out-of-Distribution Generalization for Limited Size Datasets](https://doi.org/10.48550/arXiv.2511.03855) , has been accepted at SPIE Medical Imaging 2026: Computer-Aided Diagnosis. It is scheduled for an oral presentation on February 16th in Vancouver, BC. If you will attend SPIE Medical Imaging 2026, I look forward to connecting with you:)
+- I am accepted to RISE-MICCAI 2026 program where I will be working on domain adaptation algorithms to mitigate distributional shift from higher-resource to resource-constrained environments
+
 **Under the radar (quite so)...**
-- RISE-MICCAI LISA 2025 challenge
-- Preprint Under Review at SPIE Medical Imaging 2026: Computer-Aided Diagnosis (will reveal later...)
+- A real-time multimodal neonatal pain monitoring system prototype...
+- A secret project on dissecting embeddings for out-of-distribution generalization
 
 ---
 
