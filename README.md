@@ -26,6 +26,7 @@
 **Exciting news**
 - Our maunscript, [Noise Injection: Improving Out-of-Distribution Generalization for Limited Size Datasets](https://doi.org/10.48550/arXiv.2511.03855) , has been accepted at SPIE Medical Imaging 2026: Computer-Aided Diagnosis. It is scheduled for an oral presentation on February 16th in Vancouver, BC. If you will attend SPIE Medical Imaging 2026, I look forward to connecting with you:)
 - I am accepted to RISE-MICCAI 2026 program where I will be working on domain adaptation algorithms to mitigate distributional shift from higher-resource to resource-constrained environments
+- Our IEEE Computer Society Student Branch Chapter at the University of South Florida has successfully hosted the 2nd edition of the first and only TechX AI conference in the US and Canada. We have recorded over 500 signups, 350+ checkins, 11 speakers from Microsoft, JP Morgan, Verizon, Intel etc. and 5 hours of career fair with companies like ICode, ISACA, USF IT, Verizon, IronEagleX, and Uber AI. As a proud member of the marketing team, our social media campaign specifically has reached over 200,000 views on both LinkedIn and Instagram, 500+ and 1000+ followers on LinkedIn and Instagram respectively.
 
 **Under the radar (quite so)...**
 - A real-time multimodal neonatal pain monitoring system prototype...
