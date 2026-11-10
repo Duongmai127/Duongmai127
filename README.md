@@ -1,5 +1,5 @@
 ## Xin chào, my name is Duong Mai (Eric)  
-🎓 Computer Science major at the University of South Florida (USF) - Expected Graduation: August 2026
+🎓 PhD Student @ Vanderbilt University (Aug 2026 - )
 
 🔬 I research AI & Healthcare, focusing on **medical imaging**, **multi-modal learning (video & sound)**, and **Research Interface**
 
